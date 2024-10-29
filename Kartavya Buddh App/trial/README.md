@@ -1,6 +1,6 @@
 # trial
 
-A new Flutter project.
+A start Flutter project from trail folder.
 
 ## Getting Started
 
